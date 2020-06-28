@@ -11,9 +11,9 @@ module.exports = {
         sidebar: {
            '/docs/': [
                '',
-              'Introduction',
               'Getting Started',
-              'Commands' 
+              'Commands' ,
+              'Controller'
            ]
         }
     },

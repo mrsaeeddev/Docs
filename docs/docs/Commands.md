@@ -1,12 +1,12 @@
 # Commands
 
-to check opshit version
+Check opshit version
 
 ```bash
 node opshit -v
 ```
 
-to create Controller
+Create Controller
 ```bash
 node opshit make:ctrl <ControllerName>
 ```

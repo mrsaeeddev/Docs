@@ -20,9 +20,16 @@ npm install
 If you have NodeJS installed locally and you would like to use NodeJS's built-in development server to serve your application, you may use the serve opshit command. This command will start a development server at http://localhost:5000:
 
 ```bash
-    node opshit serve
+node opshit serve
 ```
-
+additionally you need automatic refreshing server you must install _nodemon_ globally
+```bash
+npm install -g nodemon
+```
+Now you will run opshit using _nodemmon_
+```bash
+nodemon opshit serve
+```
 ## Structure of Folder Tree
 ```
 |--app

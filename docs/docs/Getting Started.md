@@ -41,6 +41,7 @@ nodemon opshit serve
 |--config
 |--database
 |--resources
-  |-- u can use static site for build in files Otherwise use vuejs framework inner opshit
+  |-- u can use static site for build in files 
+      Otherwise use vuejs framework inner opshit
 |--routes
 ```

@@ -1,6 +1,12 @@
 # Commands
 
 ## Basic Commands
+
+check opshit
+```bash
+node opshit
+```
+
 Check opshit version
 ```bash
 node opshit -v

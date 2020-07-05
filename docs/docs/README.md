@@ -1,3 +1,4 @@
 # Introduction
 
-Opshit an open source collection framework Developed by Javascript. It's a API development stucture designed framework.
+### Opshit an open source collection framework Developed by JavaScript. It's  API development framework.
+

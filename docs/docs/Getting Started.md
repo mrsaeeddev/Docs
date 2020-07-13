@@ -26,7 +26,7 @@ additionally you need automatic refreshing server you must install _nodemon_ glo
 ```bash
 npm install -g nodemon
 ```
-Now you will run opshit using _nodemmon_
+Now you will run opshit using _nodemon_
 ```bash
 nodemon opshit serve
 ```

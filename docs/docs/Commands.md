@@ -2,7 +2,7 @@
 
 ## Basic Commands
 
-check opshit
+Check opshit
 ```bash
 node opshit
 ```
@@ -12,7 +12,7 @@ Check opshit version
 node opshit -v
 ```
 
-Simply Run once
+Simply run once
 ```bash
 node opshit serve
 ```
@@ -24,7 +24,7 @@ nodemon opshit serve
 
 ## File Creation Commands
 
-Create Controller
+Create a new controller
 ```bash
 node opshit make:ctrl <ControllerName>
 ```

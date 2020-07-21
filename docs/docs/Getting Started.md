@@ -6,7 +6,7 @@
 
 
 ## Installation
-First Step Clone our latest repository
+First clone our latest repository
 ```bash
 git clone https://github.com/opshit/opshit.git
 ```
@@ -22,11 +22,11 @@ If you have NodeJS installed locally and you would like to use NodeJS's built-in
 ```bash
 node opshit serve
 ```
-additionally you need automatic refreshing server you must install _nodemon_ globally
+additionally, if you need automatic refreshing server you must install _nodemon_ globally
 ```bash
 npm install -g nodemon
 ```
-Now you will run opshit using _nodemon_
+Now you can run opshit using _nodemon_
 ```bash
 nodemon opshit serve
 ```

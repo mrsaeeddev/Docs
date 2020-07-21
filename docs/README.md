@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/opshit.png
 heroText: The NodeJS Framework for Smart Back-End
-tagline: It is an open source
+tagline: It is free and open source
 actionText: Get Started →
 actionLink: /docs/
 features:
